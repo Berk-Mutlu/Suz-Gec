@@ -1,6 +1,6 @@
-# PROJE ADI
+# Süz-Geç
 
-> **Not:** Bu bölüm proje adı ile güncellenmelidir.
+
 
 ---
 
@@ -30,16 +30,14 @@
 
 ## Proje Ekibi
 
-**Grup Adı:** 
-> Belirlediğiniz grup adı buraya yazılacaktır.
+**B²E** 
+
 
 **Ekip Üyeleri:** 
-- Ali Tutar
-- Veli Yılmaz
-- Selami Demir
-- Ayşe Kaya
-- Fatma Öztürk
-- Hayriye Şahin
+- Berk Mutlu
+- Berra Kırış
+- Eda Nur Tarhan
+
 
 ---
 
@@ -132,4 +130,5 @@ Kendi reponuza ekledikten sonra projeyi kendi bilgilerinizle güncellemeniz gere
 - **Tüm placeholder'ları değiştirin:** (örn: [Grup Üyesi 2], [Soyisim], PROJE ADI vb.) kendi bilgilerinizle değiştirin
 - **Dokümantasyon:** Tüm dokümantasyon dosyalarını eksiksiz doldurun
 - **Görev dağılımı:** Her ekip üyesi kendi görevlerini tamamlamalıdır
+
 - **İşbirliği:** Collaborator olarak eklenen üyeler, projeye doğrudan commit ve push yapabilirler
